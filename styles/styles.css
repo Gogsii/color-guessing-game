@@ -1,0 +1,16 @@
+.container {
+    width: 55%;
+    margin: 0 auto;
+}
+.game-box {
+    border: 1px red solid;
+    padding: 5em;
+}
+.betterButton {
+    color: white;
+    background-color: blue;
+    padding: 0 50px;
+}
+#gameContainerDiv {
+    padding: 55px 0;
+}
